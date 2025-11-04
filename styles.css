@@ -1,0 +1,24 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: #333;
+    text-align: left;
+    max-width: 700px;
+    margin: 10px auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 15px;
+}
